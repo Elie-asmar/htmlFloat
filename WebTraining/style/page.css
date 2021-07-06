@@ -1,0 +1,49 @@
+body{
+    /* width:100% */
+}
+div{
+    border:solid;
+    text-align: center;
+    
+}
+.D0{
+    clear:left;
+    height: 50px;
+    width: calc( 100% - 6px) ;
+}
+.D1{
+    float: left;
+     height: 50px;
+    width: calc(50% - 6px);
+    height: 100px;
+}
+.D2{
+    float:left;
+    height: 50px;
+    border-color: red;
+    width: calc(50% - 6px);
+    height: 100px;
+   
+}
+.D3{
+    float:left;
+    height: 50px;
+    width: calc(25% - 6px);
+}
+.D3First{
+    clear: left;
+}
+
+.D7{
+    clear:left;
+    float:left;
+    width: calc(75% - 6px);
+    height: 100px;
+}
+.D8{
+    float:left;
+    width: calc(25% - 6px);
+    height: 100px;
+
+}
+
